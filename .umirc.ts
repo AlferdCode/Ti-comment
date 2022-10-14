@@ -43,7 +43,7 @@ export default defineConfig({
     },
     {
       title: 'GitHub',
-      path: 'https://github.com/AlferdCode/Fl-component-library',
+      path: 'https://github.com/AlferdCode/Ti-comment',
     },
   ],
   // styles: [style],
